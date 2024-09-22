@@ -1,0 +1,177 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   scroll-behavior: smooth;
+  }
+  
+.first{
+    height: 100vh;
+    /* border: solid red 2px; */
+    background-image:url(IMG_20220101_201943_428.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.title{
+    /* margin-top: 20px; */
+    font-size: 50px;
+    font-weight: 800;
+    text-align: center;
+    color: aliceblue;
+    letter-spacing: 3px;
+    z-index: 1;
+    transform: translateY(20px);
+}
+.second{
+    height: 130vh;
+    /* border: solid green 2px; */
+    background-image: url(wallpaperflare.com_wallpaper.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed ;
+}
+.intro{
+    background-color: rgb(45, 45, 45);
+    height: 50%;
+}
+.question, .answer{
+    color: whitesmoke;
+    margin-left: 140px;
+    margin-right: 140px;
+    
+    
+}
+.question{
+    font-size: 50px;
+    font-weight: 800;
+    padding-top: 40px;
+}
+.answer{
+    font-size: 30px;
+    /* margin-top: 60px; */
+    padding-top: 40px;
+}
+.title-1{
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.name-1{
+    background-color: white;
+    color: black;
+    height: 70px;
+    width: 400px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+    padding-top: 6px;
+    
+}
+.third{
+    background-image:url(wallpaperflare.com_wallpaper5.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 130vh;
+    /* border: solid yellow 2px; */
+
+}
+.dragonball{
+    height: 50%;
+    background-color:rgb(45, 45, 45); 
+    /* border: solid blue 2px; */
+   
+    
+}
+.aboutdb{
+    font-size: 30px;
+    color: white;
+    /* margin-top: 70px; */
+    /* border: solid pink 2px; */
+    margin-left: 140px;
+    margin-right: 140px;
+    padding-top: 60px;
+    
+}
+.title-2{
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.name-2{
+    background-color: white;
+    color: black;
+    height: 70px;
+    width: 500px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+    padding-top: 6px;
+    
+}
+.fourth{
+    background-image: url(wallpaperflare.com_wallpaper3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 130vh;
+    /* border: solid yellow 2px; */
+
+}
+.aot{
+    height: 50%;
+    background-color:rgb(45, 45, 45); 
+    /* border: solid blue 2px; */
+   
+    
+}
+.aboutaot{
+    font-size: 30px;
+    color: white;
+    /* margin-top: 70px; */
+    /* border: solid pink 2px; */
+    margin-left: 140px;
+    margin-right: 140px;
+    padding-top: 80px;
+    
+}
+.title-3{
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.name-3{
+    background-color: white;
+    color: black;
+    height: 70px;
+    width: 250px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+    padding-top: 6px;
+    
+}
+.fifth{
+    height: 65vh;
+    background-color:rgb(45, 45, 45) ;
+    /* border: solid red 2px; */
+}
+.abouthaikyu{
+    color: white;
+    font-size:30px ;
+    /* margin-top: 70px; */
+    margin-left: 140px;
+    margin-right: 140px;
+    /* border: solid violet 2px; */
+    padding-top: 60px;
+
+
+}
